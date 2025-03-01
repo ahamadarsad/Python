@@ -1,6 +1,6 @@
 a = int(input("enter number A: "))
 b = int(input("enter number B:  "))
-i =input("add/sub/mul/div: ")
+i =input("Enter your choice :add/sub/mul/div: ")
 if(i=="add"):
     print(a+b)
 elif(i=="sub"):
